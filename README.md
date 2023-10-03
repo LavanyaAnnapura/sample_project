@@ -1,3 +1,3 @@
 # sample_project
 
-this is a sample project
+practice javascript and react
