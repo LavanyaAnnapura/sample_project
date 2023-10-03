@@ -1,3 +1,3 @@
-# sample_project
+# javascript_react
 
 this is a sample project
